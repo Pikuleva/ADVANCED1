@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BLH1g7Wsg6LSBT6tU857ePNDF9XSH/xyKr1TwDaRSjBQhabCt2tEaKRUQHIYytVc83QPYefXltZWw9179OeNWw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\ADVANCED\\Functional Programming - Exercise\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

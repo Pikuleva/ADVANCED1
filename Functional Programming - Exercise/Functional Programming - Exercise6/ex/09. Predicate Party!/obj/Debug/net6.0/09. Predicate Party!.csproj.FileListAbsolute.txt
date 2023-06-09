@@ -1,0 +1,15 @@
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.exe
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.deps.json
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.runtimeconfig.json
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.dll
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.pdb
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.AssemblyInfo.cs
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.dll
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\obj\Debug\net6.0\refint\09. Predicate Party!.dll
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.pdb
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.genruntimeconfig.cache
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\09. Predicate Party!\obj\Debug\net6.0\ref\09. Predicate Party!.dll

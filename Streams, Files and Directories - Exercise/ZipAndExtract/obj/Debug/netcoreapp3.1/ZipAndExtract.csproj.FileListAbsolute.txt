@@ -1,0 +1,14 @@
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.exe
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.deps.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.runtimeconfig.dev.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\bin\Debug\netcoreapp3.1\ZipAndExtract.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.AssemblyInfo.cs
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\ZipAndExtract\obj\Debug\netcoreapp3.1\ZipAndExtract.genruntimeconfig.cache

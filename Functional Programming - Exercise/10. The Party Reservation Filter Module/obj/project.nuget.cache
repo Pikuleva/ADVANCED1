@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iX12cxN1T3xJ9J3gbWQPCAdQn9B7O511noMtV0W0OisV9RXumKo4vdAda2P7r4FTXzsP29sqQuUqKveQ1j4cXQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\ADVANCED\\Functional Programming - Exercise\\10. The Party Reservation Filter Module\\10. The Party Reservation Filter Module.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

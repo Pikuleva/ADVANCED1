@@ -1,0 +1,14 @@
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.exe
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.deps.json
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.json
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.dev.json
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.dll
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.pdb
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfo.cs
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.dll
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.pdb
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.genruntimeconfig.cache

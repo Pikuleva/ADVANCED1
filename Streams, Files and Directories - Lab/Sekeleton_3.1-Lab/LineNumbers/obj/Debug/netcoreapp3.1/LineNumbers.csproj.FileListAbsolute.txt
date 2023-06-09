@@ -1,0 +1,14 @@
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache

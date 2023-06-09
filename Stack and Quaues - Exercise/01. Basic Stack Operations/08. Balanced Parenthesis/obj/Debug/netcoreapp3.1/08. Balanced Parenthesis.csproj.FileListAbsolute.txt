@@ -1,0 +1,14 @@
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.exe
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.deps.json
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.runtimeconfig.json
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.runtimeconfig.dev.json
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.dll
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\bin\Debug\netcoreapp3.1\08. Balanced Parenthesis.pdb
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.AssemblyInfo.cs
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.dll
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.pdb
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\netcoreapp3.1\08. Balanced Parenthesis.genruntimeconfig.cache

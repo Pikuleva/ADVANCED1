@@ -1,0 +1,15 @@
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\obj\Debug\net6.0\rawData.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\obj\Debug\net6.0\rawData.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\obj\Debug\net6.0\rawData.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\obj\Debug\net6.0\rawData.AssemblyInfo.cs
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\obj\Debug\net6.0\rawData.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\bin\Debug\net6.0\rawData.exe
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\bin\Debug\net6.0\rawData.deps.json
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\bin\Debug\net6.0\rawData.runtimeconfig.json
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\bin\Debug\net6.0\rawData.dll
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\bin\Debug\net6.0\rawData.pdb
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\obj\Debug\net6.0\rawData.dll
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\obj\Debug\net6.0\refint\rawData.dll
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\obj\Debug\net6.0\rawData.pdb
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\obj\Debug\net6.0\rawData.genruntimeconfig.cache
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\rawData\obj\Debug\net6.0\ref\rawData.dll

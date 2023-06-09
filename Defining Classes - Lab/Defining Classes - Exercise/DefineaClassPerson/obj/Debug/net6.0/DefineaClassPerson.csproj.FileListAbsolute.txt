@@ -1,0 +1,15 @@
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\bin\Debug\net6.0\DefineaClassPerson.exe
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\bin\Debug\net6.0\DefineaClassPerson.deps.json
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\bin\Debug\net6.0\DefineaClassPerson.runtimeconfig.json
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\bin\Debug\net6.0\DefineaClassPerson.dll
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\bin\Debug\net6.0\DefineaClassPerson.pdb
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\obj\Debug\net6.0\DefineaClassPerson.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\obj\Debug\net6.0\DefineaClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\obj\Debug\net6.0\DefineaClassPerson.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\obj\Debug\net6.0\DefineaClassPerson.AssemblyInfo.cs
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\obj\Debug\net6.0\DefineaClassPerson.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\obj\Debug\net6.0\DefineaClassPerson.dll
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\obj\Debug\net6.0\refint\DefineaClassPerson.dll
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\obj\Debug\net6.0\DefineaClassPerson.pdb
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\obj\Debug\net6.0\DefineaClassPerson.genruntimeconfig.cache
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\DefineaClassPerson\obj\Debug\net6.0\ref\DefineaClassPerson.dll

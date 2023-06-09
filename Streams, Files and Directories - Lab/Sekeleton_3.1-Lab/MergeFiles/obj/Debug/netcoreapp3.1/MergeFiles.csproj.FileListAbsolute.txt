@@ -1,0 +1,13 @@
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.genruntimeconfig.cache

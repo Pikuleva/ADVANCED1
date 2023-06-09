@@ -1,0 +1,15 @@
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.AssemblyInfo.cs
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.exe
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.deps.json
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.runtimeconfig.json
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.dll
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\bin\Debug\net6.0\07. Predicate For Names.pdb
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.dll
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\obj\Debug\net6.0\refint\07. Predicate For Names.dll
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.pdb
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\obj\Debug\net6.0\07. Predicate For Names.genruntimeconfig.cache
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\07. Predicate For Names\obj\Debug\net6.0\ref\07. Predicate For Names.dll

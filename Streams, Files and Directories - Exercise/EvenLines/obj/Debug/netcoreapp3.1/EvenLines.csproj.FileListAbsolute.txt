@@ -1,0 +1,14 @@
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.exe
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.deps.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.dev.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfo.cs
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.genruntimeconfig.cache

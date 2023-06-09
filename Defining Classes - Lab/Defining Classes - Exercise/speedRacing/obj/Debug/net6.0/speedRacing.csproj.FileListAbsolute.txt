@@ -1,0 +1,15 @@
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\obj\Debug\net6.0\speedRacing.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\obj\Debug\net6.0\speedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\obj\Debug\net6.0\speedRacing.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\obj\Debug\net6.0\speedRacing.AssemblyInfo.cs
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\obj\Debug\net6.0\speedRacing.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\bin\Debug\net6.0\speedRacing.exe
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\bin\Debug\net6.0\speedRacing.deps.json
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\bin\Debug\net6.0\speedRacing.runtimeconfig.json
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\bin\Debug\net6.0\speedRacing.dll
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\bin\Debug\net6.0\speedRacing.pdb
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\obj\Debug\net6.0\speedRacing.dll
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\obj\Debug\net6.0\refint\speedRacing.dll
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\obj\Debug\net6.0\speedRacing.pdb
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\obj\Debug\net6.0\speedRacing.genruntimeconfig.cache
+D:\C#\ADVANCED\Defining Classes - Lab\Defining Classes - Exercise\speedRacing\obj\Debug\net6.0\ref\speedRacing.dll

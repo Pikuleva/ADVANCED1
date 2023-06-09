@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EZE9lOgOy9x4po269yl2XNbWQrD14l3ttytjC6o1/yqUKMYPPVC0ExapjSItFjl2s1GgyQIa1QcjqdXSpEIC7Q==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\ADVANCED\\Functional Programming - Exercise\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

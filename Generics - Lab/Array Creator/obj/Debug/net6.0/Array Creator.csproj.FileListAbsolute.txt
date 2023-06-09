@@ -1,0 +1,15 @@
+D:\C#\ADVANCED\Generics - Lab\Array Creator\bin\Debug\net6.0\Array Creator.exe
+D:\C#\ADVANCED\Generics - Lab\Array Creator\bin\Debug\net6.0\Array Creator.deps.json
+D:\C#\ADVANCED\Generics - Lab\Array Creator\bin\Debug\net6.0\Array Creator.runtimeconfig.json
+D:\C#\ADVANCED\Generics - Lab\Array Creator\bin\Debug\net6.0\Array Creator.dll
+D:\C#\ADVANCED\Generics - Lab\Array Creator\bin\Debug\net6.0\Array Creator.pdb
+D:\C#\ADVANCED\Generics - Lab\Array Creator\obj\Debug\net6.0\Array Creator.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Generics - Lab\Array Creator\obj\Debug\net6.0\Array Creator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Generics - Lab\Array Creator\obj\Debug\net6.0\Array Creator.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Generics - Lab\Array Creator\obj\Debug\net6.0\Array Creator.AssemblyInfo.cs
+D:\C#\ADVANCED\Generics - Lab\Array Creator\obj\Debug\net6.0\Array Creator.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Generics - Lab\Array Creator\obj\Debug\net6.0\Array Creator.dll
+D:\C#\ADVANCED\Generics - Lab\Array Creator\obj\Debug\net6.0\refint\Array Creator.dll
+D:\C#\ADVANCED\Generics - Lab\Array Creator\obj\Debug\net6.0\Array Creator.pdb
+D:\C#\ADVANCED\Generics - Lab\Array Creator\obj\Debug\net6.0\Array Creator.genruntimeconfig.cache
+D:\C#\ADVANCED\Generics - Lab\Array Creator\obj\Debug\net6.0\ref\Array Creator.dll

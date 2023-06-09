@@ -1,0 +1,14 @@
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.exe
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.deps.json
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.json
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.dev.json
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfo.cs
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.genruntimeconfig.cache

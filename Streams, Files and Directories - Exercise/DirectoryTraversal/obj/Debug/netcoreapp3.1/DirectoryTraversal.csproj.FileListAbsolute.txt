@@ -1,0 +1,14 @@
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.exe
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.deps.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.dev.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfo.cs
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.genruntimeconfig.cache

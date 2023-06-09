@@ -1,0 +1,14 @@
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.exe
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.deps.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.runtimeconfig.dev.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\bin\Debug\netcoreapp3.1\CopyDirectory.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.AssemblyInfo.cs
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyDirectory\obj\Debug\netcoreapp3.1\CopyDirectory.genruntimeconfig.cache

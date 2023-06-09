@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gO99Qx11qsVnoBOuqxZ2DkWfn/dZxdetW4lTgdnWP9uiFWWxei47XgfHKryqZrrw+X/YWULIOhDKgfdR7ErbTg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\ADVANCED\\Functional Programming - Exercise\\08. List Of Predicates\\08. List Of Predicates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Yoana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

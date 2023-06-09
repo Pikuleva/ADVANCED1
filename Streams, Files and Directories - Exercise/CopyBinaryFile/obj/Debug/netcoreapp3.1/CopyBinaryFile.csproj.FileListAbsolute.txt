@@ -1,0 +1,14 @@
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.exe
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.deps.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.dev.json
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfo.cs
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.genruntimeconfig.cache

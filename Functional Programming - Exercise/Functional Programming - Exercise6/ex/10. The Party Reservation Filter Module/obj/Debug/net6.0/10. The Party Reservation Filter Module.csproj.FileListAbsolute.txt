@@ -1,0 +1,15 @@
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.AssemblyInfo.cs
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\bin\Debug\net6.0\10. The Party Reservation Filter Module.exe
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\bin\Debug\net6.0\10. The Party Reservation Filter Module.deps.json
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\bin\Debug\net6.0\10. The Party Reservation Filter Module.runtimeconfig.json
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\bin\Debug\net6.0\10. The Party Reservation Filter Module.dll
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\bin\Debug\net6.0\10. The Party Reservation Filter Module.pdb
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.dll
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\obj\Debug\net6.0\refint\10. The Party Reservation Filter Module.dll
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.pdb
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\obj\Debug\net6.0\10. The Party Reservation Filter Module.genruntimeconfig.cache
+D:\C#\ADVANCED\Functional Programming - Exercise\Functional Programming - Exercise6\ex\10. The Party Reservation Filter Module\obj\Debug\net6.0\ref\10. The Party Reservation Filter Module.dll

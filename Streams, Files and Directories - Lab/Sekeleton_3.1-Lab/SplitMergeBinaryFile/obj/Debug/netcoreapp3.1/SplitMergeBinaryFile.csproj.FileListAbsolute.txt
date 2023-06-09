@@ -1,0 +1,14 @@
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.exe
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.deps.json
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.json
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.runtimeconfig.dev.json
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\bin\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.AssemblyInfo.cs
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.dll
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.pdb
+D:\C#\ADVANCED\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\SplitMergeBinaryFile\obj\Debug\netcoreapp3.1\SplitMergeBinaryFile.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\C#\ADVANCED\Generics - Lab\Box\bin\Debug\net6.0\BoxOfT.exe
+D:\C#\ADVANCED\Generics - Lab\Box\bin\Debug\net6.0\BoxOfT.deps.json
+D:\C#\ADVANCED\Generics - Lab\Box\bin\Debug\net6.0\BoxOfT.runtimeconfig.json
+D:\C#\ADVANCED\Generics - Lab\Box\bin\Debug\net6.0\BoxOfT.dll
+D:\C#\ADVANCED\Generics - Lab\Box\bin\Debug\net6.0\BoxOfT.pdb
+D:\C#\ADVANCED\Generics - Lab\Box\obj\Debug\net6.0\BoxOfT.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Generics - Lab\Box\obj\Debug\net6.0\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Generics - Lab\Box\obj\Debug\net6.0\BoxOfT.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Generics - Lab\Box\obj\Debug\net6.0\BoxOfT.AssemblyInfo.cs
+D:\C#\ADVANCED\Generics - Lab\Box\obj\Debug\net6.0\BoxOfT.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Generics - Lab\Box\obj\Debug\net6.0\BoxOfT.dll
+D:\C#\ADVANCED\Generics - Lab\Box\obj\Debug\net6.0\refint\BoxOfT.dll
+D:\C#\ADVANCED\Generics - Lab\Box\obj\Debug\net6.0\BoxOfT.pdb
+D:\C#\ADVANCED\Generics - Lab\Box\obj\Debug\net6.0\BoxOfT.genruntimeconfig.cache
+D:\C#\ADVANCED\Generics - Lab\Box\obj\Debug\net6.0\ref\BoxOfT.dll

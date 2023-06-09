@@ -1,0 +1,14 @@
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.exe
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.deps.json
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.runtimeconfig.json
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.runtimeconfig.dev.json
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.dll
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\bin\Debug\netcoreapp3.1\02. Basic Queue Operations.pdb
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.AssemblyInfo.cs
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.dll
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.pdb
+D:\C#\ADVANCED\Stack and Quaues - Exercise\01. Basic Stack Operations\02. Basic Queue Operations\obj\Debug\netcoreapp3.1\02. Basic Queue Operations.genruntimeconfig.cache

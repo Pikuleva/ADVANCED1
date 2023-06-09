@@ -1,0 +1,14 @@
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.exe
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.deps.json
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.runtimeconfig.json
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.runtimeconfig.dev.json
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.dll
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.pdb
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.csproj.AssemblyReference.cache
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.AssemblyInfoInputs.cache
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.AssemblyInfo.cs
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.dll
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.pdb
+D:\C#\ADVANCED\Multidimensional Arrays - Lab\Multidimensional Arrays\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.genruntimeconfig.cache
